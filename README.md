@@ -16,7 +16,7 @@ drafting untuk workshop
 |        | Penyebaran sertifikat        | Sertifikat diterima peserta      |
 
 
-# 1. documen tor 
+# 1. document TERM OF REFERENCE (TOR)
   - Pendahuluan 
   - dasar pelaksanaan
   - tujuan kegiatan
@@ -24,7 +24,8 @@ drafting untuk workshop
   - waktu dan tempat
   - bentuk kegiatan
   - sasaran kegiatan
-  - susunan
+  - susunan acara
+  - kesimpulan
 # 2. flyer
 
 # 3. gform
