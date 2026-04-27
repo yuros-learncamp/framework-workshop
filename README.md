@@ -113,6 +113,14 @@ Demikian TOR ini disusun sebagai acuan pelaksanaan kegiatan. Diharapkan kegiatan
 Ketua Pelaksana  
 Vesper Onsite Bootcamp
 # 2. flyer
-
+ - https://canva.link/rp6cd07qf21szet
 # 3. gform
+  - Name
+  - Email
+  - phone number
+  - Instation
   - https://forms.gle/eHTZMxjZ2Lkb4MVSA
+# 4. bukti penyebaran flyer
+ - ss bukti penyebaran flyer
+# 5. pemateri
+ - melobby pemateri
