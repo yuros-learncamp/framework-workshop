@@ -128,7 +128,7 @@ Vesper Onsite Bootcamp
 ## Platform
 - Instagram
 - WhatsApp
-- Telegram
+- Facebook
 
 ## Jenis Konten
 - Coming soon
