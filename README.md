@@ -16,8 +16,8 @@ drafting untuk workshop
 |        | Penyebaran sertifikat        | Sertifikat diterima peserta      |
 
 
-# 1. document TERM OF REFERENCE (TOR)
- # TERM OF REFERENCE (TOR)
+# template
+ # 1. TERM OF REFERENCE (TOR)
 ## VESPER ONSITE BOOTCAMP
 
 ---
@@ -112,15 +112,40 @@ Demikian TOR ini disusun sebagai acuan pelaksanaan kegiatan. Diharapkan kegiatan
 **Pamulang, 24 April 2026**  
 Ketua Pelaksana  
 Vesper Onsite Bootcamp
+
 # 2. flyer
  - https://canva.link/rp6cd07qf21szet
+
 # 3. gform
   - Name
   - Email
   - phone number
   - Instation
   - https://forms.gle/eHTZMxjZ2Lkb4MVSA
-# 4. bukti penyebaran flyer
- - ss bukti penyebaran flyer
-# 5. pemateri
- - melobby pemateri
+
+# 4. penyebaran flyer
+
+## Platform
+- Instagram
+- WhatsApp
+- Telegram
+
+## Jenis Konten
+- Coming soon
+- Poster utama
+
+## Jadwal Posting
+- H-3
+- H-2
+
+# 5. SERTIFIKAT
+
+- Diberikan kepada:
+[Nama Peserta]
+
+- Atas partisipasinya dalam:
+[Nama Kegiatan]
+
+- Tanggal:
+- TTD:
+
