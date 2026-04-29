@@ -1,8 +1,6 @@
-| No | Bagian yang Dicek | Status | Keterangan |
-| -- | ----------------- | ------ | ---------- |
-| 1  | Audio narasumber  |        |            |
-| 2  | PPT narasumber    |        |            |
-| 3  | Host & MC         |        |            |
-| 4  | Link meeting      |        |            |
-| 5  | Rundown acara     |        |            |
-| 6  | Absensi peserta   |        |            |
+| No | Bagian yang Dicek    | Status | Keterangan |
+| -- | -------------------- | ------ | ---------- |
+| 1  | Ruangan kegiatan     |        |            |
+| 2  | LCD/Proyektor        |        |            |
+| 3  | kesiapan narasumber  |        |            |
+| 4  | materi/ppt narsum    |        |            |
