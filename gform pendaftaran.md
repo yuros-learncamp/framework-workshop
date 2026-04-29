@@ -1,5 +1,0 @@
-  - Name
-  - Email
-  - phone number
-  - Instation
-  - dari mana anda mendapatkan info workshop ini?
