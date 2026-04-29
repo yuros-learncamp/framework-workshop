@@ -1,0 +1,5 @@
+  - Name
+  - Email
+  - phone number
+  - Instation
+  - alamat
