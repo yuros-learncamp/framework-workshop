@@ -56,14 +56,14 @@
 
 ## H. Bentuk Kegiatan
 
-- search for 'lorem ipsum' will uncover
+- Workshop (tema kegiatan)
 
 ---
 
 ## I. Sasaran Kegiatan
 
-- search for 'lorem ipsum' will uncover
-- search for 'lorem ipsum' will uncover
+- (tergantung tema)
+- (tergantung tema)
 
 ---
 
