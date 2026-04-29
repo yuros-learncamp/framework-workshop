@@ -35,18 +35,5 @@
 | 14 | Menyampaikan materi secara komunikatif dan interaktif                       | Wajib mengisi feedback/evaluasi kegiatan               |
 | 15 | Menjaga profesionalisme selama kegiatan berlangsung                         | Sertifikat diberikan sesuai ketentuan panitia          |
 
-| No | Rules Peserta                                                              | Tujuan                                            |
-| -- | -------------------------------------------------------------------------- | ------------------------------------------------- |
-| 1  | Peserta wajib hadir tepat waktu sesuai jadwal kegiatan                     | Menjaga ketertiban dan kelancaran acara           |
-| 2  | Peserta wajib menggunakan nama asli pada Zoom/Google Meet                  | Memudahkan pendataan peserta                      |
-| 3  | Peserta wajib menjaga etika dan sopan santun selama kegiatan berlangsung   | Menciptakan suasana kegiatan yang kondusif        |
-| 4  | Mikrofon peserta wajib dimatikan selama pemateri menyampaikan materi       | Menghindari noise/gangguan suara                  |
-| 5  | Kamera mengikuti ketentuan panitia                                         | Menyesuaikan kebutuhan kegiatan                   |
-| 6  | Peserta dilarang spam chat atau mengganggu jalannya kegiatan               | Menjaga fokus peserta dan narasumber              |
-| 7  | Pertanyaan disampaikan melalui chat atau sesi tanya jawab                  | Menjaga keteraturan diskusi                       |
-| 8  | Peserta wajib mengikuti kegiatan hingga selesai                            | Memastikan peserta mendapatkan materi secara utuh |
-| 9  | Peserta wajib mengisi absensi kegiatan                                     | Sebagai bukti kehadiran peserta                   |
-| 10 | Peserta wajib mengisi form feedback/evaluasi                               | Sebagai bahan evaluasi kegiatan                   |
-| 11 | Link meeting tidak diperbolehkan disebarkan tanpa izin panitia             | Menjaga keamanan kegiatan                         |
-| 12 | Sertifikat hanya diberikan kepada peserta yang memenuhi ketentuan kegiatan | Menjaga kedisiplinan dan administrasi peserta     |
+
 
