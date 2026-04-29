@@ -71,17 +71,27 @@
 
 | Waktu        | Kegiatan            | Keterangan                          |
 |-------------|--------------------|------------------------------------|
-| 09:30–10:00 | Lorem Ipsum        | Lorem Ipsum                        |
-| 10:00–11:30 |Lorem Ipsum         | Lorem Ipsum                        |
-| 11:30–12:00 | Contrary t0        | a Latin professor                  |
-| 12:00–12:50 | Contrary           | a Latin professor                  |
-| 12:50–13:00 | popular            | a Latin professor                  |
+| 09:30–10:00 | Persiapan Workshop | periapan workshop                  |
+| 10:00–11:30 |Pemaparan Materi          | Pemaparan Materi Oleh
+Pemateri                        |
+| 11:30–12:00 | tanya jawab        | Peserta Diperkenankan
+Bertany                  |
+| 12:00–12:50 | Praktek           | peserta diperkenankan untuk prakter
+materi yang telah di paparkan                  |
+| 12:50–13:00 | Penutupan Pembacaan Doa
+dan Sesi Dokumentasi            | Penutupan Dilakukan Oleh Panitia                  |
 
 ---
 
 ## K. Penutup
 
- it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+ Demikian kegiatan workshop ini diselenggarakan sebagai bentuk upaya dalam meningkatkan pengetahuan, keterampilan, serta wawasan peserta sesuai dengan tema yang diangkat. Besar harapan kami agar seluruh rangkaian kegiatan dapat memberikan manfaat nyata dan menjadi bekal yang berguna bagi peserta, baik dalam bidang akademik, organisasi, maupun pengembangan diri di masa mendatang.
+
+   Kami menyadari bahwa pelaksanaan workshop ini masih memiliki kekurangan. Oleh karena itu, kritik dan saran yang membangun sangat kami harapkan demi perbaikan kegiatan serupa di kemudian hari.
+
+  Akhir kata, kami mengucapkan terima kasih kepada seluruh pihak yang telah mendukung dan berpartisipasi dalam menyukseskan kegiatan ini, baik panitia, pemateri, peserta, sponsor, maupun pihak lainnya yang terlibat.
+
+Semoga kegiatan ini dapat memberikan dampak positif dan menjadi langkah awal untuk terus belajar, berkembang, dan berkarya.
 
 ---
 
