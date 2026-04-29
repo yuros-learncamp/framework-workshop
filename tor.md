@@ -1,75 +1,69 @@
 # template
  # 1. TERM OF REFERENCE (TOR)
-## VESPER ONSITE BOOTCAMP
+## VESPER WORKSHOP 
 
 ---
 
 ## A. Pendahuluan
 
-VESPER sebagai komunitas yang tumbuh dari kesamaan minat dan semangat belajar di bidang teknologi hadir untuk membuka ruang bagi siapa saja yang ingin mengembangkan diri. Melalui Vesper Onsite Bootcamp bertema **"Linux Dasar"**, VESPER mewujudkan semangat tersebut dalam bentuk kegiatan belajar bersama yang hangat, terbuka, dan berorientasi pada praktik nyata. 
-
-Peserta akan dibimbing langsung oleh instruktur yang berpengalaman dalam suasana yang kolaboratif dan menyenangkan.
-
-Dengan mengusung nilai keterbukaan, kebersamaan, dan semangat gotong royong dalam belajar, VESPER berharap kegiatan ini bisa menjadi titik awal yang berarti bagi siapa pun yang ingin mengenal dunia Linux. Lebih dari sekadar pelatihan teknis, kegiatan ini juga menjadi ajang mempererat silaturahmi serta memperluas wawasan tentang teknologi open-source.
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+  Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
 
 ---
 
 ## B. Dasar Pelaksanaan Kegiatan
 
-1. Berdasarkan pengalaman workshop Linux dasar sebelumnya, masih diperlukan pengulangan dan pendalaman materi dasar.
-2. Adanya kebutuhan peningkatan kompetensi mahasiswa dan masyarakat dalam menghadapi perkembangan teknologi informasi.
-
+1. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.
+2.  Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text
 ---
 
 ## C. Tujuan Kegiatan
 
-1. Mendorong tumbuhnya minat belajar open-source secara berkelanjutan.
-2. Memberikan pemahaman menyeluruh mengenai konsep dasar Linux.
-
+1. Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+2. Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
 ---
 
 ## D. Indikator Keberhasilan
 
 | No | Tujuan yang Ingin Dicapai               | Indikator Keberhasilan                                                   | Instrumen                                  |
 |----|---------------------------------------|-------------------------------------------------------------------------|---------------------------------------------|
-| 1  | Peserta memahami konsep dasar Linux   | Minimal 75% peserta mampu menjelaskan kembali materi                   | Pre-test & Post-test, Sesi tanya jawab      |
-| 2  | Peserta terampil menggunakan terminal | Peserta mampu menjalankan minimal 10 perintah dasar Linux              | Penilaian langsung oleh pemateri            |
-| 3  | Tumbuh minat belajar berkelanjutan    | Minimal 60% peserta ingin belajar Linux lebih lanjut                   | Feedback form                               |
-| 4  | Kelancaran proses kegiatan            | Kegiatan berjalan sesuai jadwal                                        | Monitoring rundown acara                    |
+| 1  | accompanied by English versions from the | non-characteristic words etc.         | non-characteristic words etc.     |
+| 2  | a Latin professor at Hampden-Sydney | a Latin professor at Hampden-Sydney              | a Latin professor at Hampden-Sydney            |
+| 3  | There are many variations of passages    | There are many variations of passages                   | There are many variations of passages                              |
+| 4  | Various versions have evolved            | Various versions have evolved                                        | Various versions have evolved                    |
 
 ---
 
 ## E. Nama Kegiatan
 
-**Vesper Onsite Bootcamp**
+**Various versions have evolved**
 
 ---
 
 ## F. Tema Kegiatan
 
-**Linux Dasar**
+**Various versions have evolved**
 
 ---
 
 ## G. Waktu dan Tempat Kegiatan
 
-- **Nama Acara** : Workshop Linux Dasar  
-- **Hari/Tanggal** : Jumat, 24 April 2026  
-- **Waktu** : 10.00 – 13.00  
-- **Tempat** : Gol D Roger Bay, Jl. Lele 5, Bambu Apus, Pamulang, Tangerang Selatan  
-
+- **Nama Acara** : It is a long  
+- **Hari/Tanggal** : It is a long
+- **Waktu** : It is a long 
+- **Tempat** : search for 'lorem ipsum' will uncover
 ---
 
 ## H. Bentuk Kegiatan
 
-- Workshop
+- search for 'lorem ipsum' will uncover
 
 ---
 
 ## I. Sasaran Kegiatan
 
-- Mahasiswa dari berbagai program studi, khususnya bidang teknologi
-- Masyarakat umum yang ingin belajar Linux
+- search for 'lorem ipsum' will uncover
+- search for 'lorem ipsum' will uncover
 
 ---
 
@@ -77,17 +71,17 @@ Dengan mengusung nilai keterbukaan, kebersamaan, dan semangat gotong royong dala
 
 | Waktu        | Kegiatan            | Keterangan                          |
 |-------------|--------------------|------------------------------------|
-| 09:30–10:00 | Persiapan          | Persiapan workshop                 |
-| 10:00–11:30 | Pemaparan Materi   | Oleh pemateri                      |
-| 11:30–12:00 | Tanya Jawab        | Sesi interaksi peserta             |
-| 12:00–12:50 | Praktik            | Praktik langsung materi            |
-| 12:50–13:00 | Penutupan          | Doa & dokumentasi                  |
+| 09:30–10:00 | Lorem Ipsum        | Lorem Ipsum                        |
+| 10:00–11:30 |Lorem Ipsum         | Lorem Ipsum                        |
+| 11:30–12:00 | Contrary t0        | a Latin professor                  |
+| 12:00–12:50 | Contrary           | a Latin professor                  |
+| 12:50–13:00 | popular            | a Latin professor                  |
 
 ---
 
 ## K. Penutup
 
-Demikian TOR ini disusun sebagai acuan pelaksanaan kegiatan. Diharapkan kegiatan berjalan lancar dan memberikan manfaat nyata bagi peserta.
+ it is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
 
 ---
 
