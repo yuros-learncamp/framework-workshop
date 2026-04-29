@@ -2,12 +2,12 @@
 - Email
 - kamu mengikuti materi apa?
 - Proses belajar mengajar dilaksanakan secara disiplin ?
-- Seberapa jelas materi yang disampaikan selama workshop Linux dasar?
+- Seberapa jelas materi yang disampaikan selama workshop (nama kegiatan) ?
 - Lokasi pelaksanaan pelatihan bersih dan rapih ?
 - Ruang  pelatihan nyaman dan memadai?
 - Bagaimana penilaian Anda terhadap kemampuan pemateri dalam menyampaikan materi?
-- Apakah durasi workshop sudah sesuai dengan kebutuhan Anda untuk memahami materi microsoft Excel?
-- Bagian apa dari workshop yang paling Anda paham terhadap materi Microsoft Excel?
-- Bagian apa dari workshop yang paling Anda kurang paham terhadap materi Microsoft Excel?
+- Apakah durasi workshop sudah sesuai dengan kebutuhan Anda untuk memahami materi (nama kegiatan) ?
+- Bagian apa dari workshop yang paling Anda paham terhadap materi (nama kegiatan) ?
+- Bagian apa dari workshop yang paling Anda kurang paham terhadap materi (nama kegiatan) ?
 - Saran atau masukan untuk peningkatan workshoop berikutnya?
 - di workshop selanjutnya anda ingin kita mengadakan workshop apa?
