@@ -5,5 +5,5 @@
 - Apa yang mendorong kamu ingin belajar topik tersebut?
 - Format kegiatan yang paling kamu sukai?
 - Apakah kamu bersedia hadir jika workshop ini benar-benar diadakan?
-- Saran atau harapan apa yang ingin Anda sampaikan untuk kegiatan VESPER Bootcamp ini?
+- Saran atau harapan apa yang ingin Anda sampaikan untuk kegiatan VESPER Workshop ini?
 - Topik lain yang kamu harapkan diadakan tapi belum ada di pilihan?
