@@ -2,4 +2,4 @@
   - Email
   - phone number
   - Instation
-  - alamat
+  - dari mana anda mendapatkan info workshop ini?
