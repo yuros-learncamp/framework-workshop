@@ -114,7 +114,37 @@ Ketua Pelaksana
 Vesper Onsite Bootcamp
 
 # 2. flyer
- - https://canva.link/rp6cd07qf21szet
+🚨 **COMING SOON ALERT!** 🚨
+
+Capek lihat Excel tapi bingung mau mulai dari mana? 😵‍💫  
+Atau sering *struggle* saat mengolah data & bikin tugas? 📊
+
+Tenang... karena sebentar lagi hadir 🔥
+
+## 💻 WORKSHOP EXCEL by YUROS COURSE 💻
+
+Belajar Excel jadi lebih:  
+⚡ Mudah  
+⚡ Praktis  
+⚡ Seru  
+⚡ Dan pastinya bermanfaat buat kuliah maupun kerja!
+
+## Cocok banget buat kamu yang:
+- 📌 Masih pemula  
+- 📌 Ingin upgrade skill  
+- 📌 Mau lebih produktif  
+- 📌 Pengen jago olah data & administrasi  
+
+✨ Akan ada banyak insight, latihan langsung, dan pengalaman belajar yang asik!
+
+🎯 *Prepare yourself and don’t miss it!*  
+Karena kuota nanti bakal terbatas 👀
+
+📢 Info lengkap akan segera diumumkan  
+## So… **STAY TUNED!** 🔥
+
+📲 Follow Instagram: **@yuroscomm**
+https://canva.link/rp6cd07qf21szet
 
 # 3. gform
   - Name
