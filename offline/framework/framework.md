@@ -1,15 +1,15 @@
 | Hari   | Tugas                           | Output                        | Waktu     |
 | ------ | ------------------------------- | ----------------------------- | --------- |
-| Senin  | pembuatab report survey         | report hasil survey           | 180 menit |
-| Selasa | Pembuatan TOR                   | Dokumen TOR                   | 90 menit  |
-|        | Asset campaign                  | Flyer                         | 90 menit  |
+| Senin  | pembuatab report survey         | report hasil survey           | 25 menit  |
+| Selasa | Pembuatan TOR                   | Dokumen TOR                   | 50 menit  |
+|        | Asset campaign                  | Flyer                         | 50 menit  |
 |        | Promosi coming soon             | Bukti penyebaran di sosmed    | 10 menit  |
 |        | Pembuatan report promosi        | Report promosi coming soon    | 10 menit  |
 | Rabu   | Penyebaran comingsoon           | flyer                         | 10 menit  |
-|        | Pembuatan report comingsoon     | Report penyebaran comingsoon  | 30 menit  |
+|        | Pembuatan report comingsoon     | Report penyebaran comingsoon  | 20 menit  |
 |        | Persiapan narasumber            | Pemateri                      | 60 menit  |
 |        | Pembuatan report narasumber     | Report persiapan narasumber   | 20 menit  |
-| Kamis  | Promosi pendaftaran             | Penyebaran flyer di sosmed    | 15 menit  |
+| Kamis  | Promosi pendaftaran             | Penyebaran flyer di sosmed    | 10 menit  |
 | Jumat  | Survey                          | penyebaran survey             | 15 menit  |
 |        | Management peserta              | Grup peserta                  | 7 menit   |
 |        | Gladi                           | Report gladi, teknis persiapa | 155 menit |
