@@ -1,15 +1,14 @@
 | Hari   | Tugas                                 | Output                           | Waktu     |
 |--------|---------------------------------------|----------------------------------|-----------|
-| Senin  | Pembuatan report hasil survei         | Report hasil survei              | 90 menit  |
+| Senin  | Pembuatan report hasil survei         | Report hasil survei              | 30 menit  |
 | Selasa | Penyusunan TOR kegiatan online        | Dokumen TOR                      | 40 menit  |
-|        | Pembuatan asset campaign              | Flyer & poster digital           | 20 menit  |
-|        | Promosi coming soon                   | Bukti penyebaran media sosial    | 10 menit  |
+|        | Pembuatan asset campaign              | Flyer & poster digital           | 15 menit  |
+|        | Promosi coming soon                   | Bukti penyebaran media sosial    | 5 menit   |
 |        | Pembuatan report promosi coming soon  | Report promosi coming soon       | 10 menit  |
 | Rabu   | Setup platform online                 | Link jitsi                       | 5 menit   |
 |        | Koordinasi narasumber                 | Konfirmasi pemateri              | 90 menit  |
 |        | Pembuatan report narasumber           | Report narasumber                | 20 menit  |
 | Kamis  | Promosi pendaftaran                   | Penyebaran flyer di media sosial | 10 menit  |
-|        | Pembuatan report promosi pendaftaran  | Report promosi pendaftaran       | 20 menit  |
 | Jumat  | Manajemen peserta                     | Grup WhatsApp/Telegram peserta   | 5 menit   |
 |        | Gladi bersih online                   | Simulasi kegiatan,persiapa teknis | 155 menit |
 |        | Pembuatan report gladi                | Report gladi + evaluasi          | 15 menit  |
