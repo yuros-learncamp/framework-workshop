@@ -21,3 +21,5 @@
 |        | Penyebaran feedback             | Feedback peserta              | 15 menit  |
 |        | Penyebaran sertifikat           | Sertifikat diterima peserta   | 15 menit  |
 |        | Pembuatan report penyebaran     | Report penyebaran sertifikat  | 15 menit  | 
+
+  Dengan framework workshop offline ini maka 1 alur persiapan hingga pelaksanaan kegiatan membutuhkan waktu sekitar 947 menit atau ±16 jam kerja. Jika pekerjaan dilakukan selama 3 jam kerja per hari (180 menit), maka 1 orang mampu menyelesaikan sekitar 5–6 tugas operasional workshop per harinya dan keseluruhan workflow kegiatan dapat diselesaikan dalam ±5–6 hari kerja. Agar framework ini dapat berjalan sesuai target, diperlukan pembagian jobdesk yang jelas, koordinasi panitia yang terstruktur, dokumentasi/report pada setiap proses kegiatan, serta monitoring progres kerja secara berkala sehingga seluruh proses workshop offline dapat berjalan lebih efektif, rapi, dan terdokumentasi dengan baik.
