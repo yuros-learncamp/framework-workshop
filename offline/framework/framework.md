@@ -1,6 +1,6 @@
 | Hari   | Tugas                           | Output                        | Waktu     |
 | ------ | ------------------------------- | ----------------------------- | --------- |
-| Senin  | pembuatab report survey         | report hasil survey           | 180 menit |
+| Senin  | pembuatab report survey         | report hasil survey           | 120 menit |
 | Selasa | Pembuatan TOR                   | Dokumen TOR                   | 130 menit |
 |        | Asset campaign                  | Flyer                         | 30 menit  |
 |        | Promosi coming soon             | Bukti penyebaran di sosmed    | 10 menit  |
