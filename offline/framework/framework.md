@@ -18,6 +18,6 @@
 | Sabtu  | beres-beres                     | bersih dan rapih              | 15 menit  |
 |        | Acara (Hari H)                  | Pelaksanaan kegiatan          | 180 menit |
 |        | Pembuatan report pelaksanaan    | Report kegiatan Hari H        | 30 menit  |
-|        | Penyebaran feedback             | Feedback peserta              | 30 menit  |
+|        | Penyebaran feedback             | Feedback peserta              | 15 menit  |
 |        | Penyebaran sertifikat           | Sertifikat diterima peserta   | 15 menit  |
 |        | Pembuatan report penyebaran     | Report penyebaran sertifikat  | 10 menit  | 
