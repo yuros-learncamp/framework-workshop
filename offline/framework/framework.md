@@ -3,9 +3,7 @@
 | Senin  | Membuat form survey             | Google Form                   | 40 menit  |
 |        | Pembuatan report form survey    | Report pembuatan survey       | 15 menit  |
 |        | Survey                          | Hasil survey                  | 120 menit |
-|        | Pembuatan report hasil survey   | Report hasil survey           | 20 menit  |
 | Selasa | Pembuatan TOR                   | Dokumen TOR                   | 180 menit |
-|        | Pembuatan report TOR            | Report TOR                    | 20 menit  |
 |        | Asset campaign                  | Flyer                         | 30 menit  |
 |        | Pembuatan report asset campaign | Report asset campaign         | 10 menit  |
 |        | Promosi coming soon             | Bukti penyebaran di sosmed    | 10 menit  |
