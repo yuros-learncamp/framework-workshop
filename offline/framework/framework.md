@@ -20,4 +20,4 @@
 |        | Pembuatan report pelaksanaan    | Report kegiatan Hari H        | 30 menit  |
 |        | Penyebaran feedback             | Feedback peserta              | 15 menit  |
 |        | Penyebaran sertifikat           | Sertifikat diterima peserta   | 15 menit  |
-|        | Pembuatan report penyebaran     | Report penyebaran sertifikat  | 10 menit  | 
+|        | Pembuatan report penyebaran     | Report penyebaran sertifikat  | 15 menit  | 
