@@ -1,5 +1,7 @@
-| No | Keterangan               | Jumlah |
-| -- | ------------------------ | ------ |
-| 1  | Total peserta mendaftar  |        |
-| 2  | Peserta belum masuk grup |        |
-| 3  | Peserta sudah masuk grup |        |
+| No | Nama Peserta | Email | Instansi | Dari Mana Mengetahui Workshop Ini |
+| -- | ------------ | ----- | -------- | --------------------------------- |
+| 1  |              |       |          |                                   |
+| 2  |              |       |          |                                   |
+| 3  |              |       |          |                                   |
+| 4  |              |       |          |                                   |
+| 5  |              |       |          |                                   |
