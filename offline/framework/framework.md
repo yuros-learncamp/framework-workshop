@@ -2,19 +2,19 @@
 | ------ | ------------------------------- | ----------------------------- | --------- |
 | Senin  | Membuat form survey             | Google Form                   | 40 menit  |
 |        | Pembuatan report form survey    | Report pembuatan survey       | 15 menit  |
-|        | Survey                          | Hasil survey                  | 200 menit |
+|        | Survey                          | Hasil survey                  | 120 menit |
 |        | Pembuatan report hasil survey   | Report hasil survey           | 20 menit  |
-| Selasa | Pembuatan TOR                   | Dokumen TOR                   | 200 menit |
+| Selasa | Pembuatan TOR                   | Dokumen TOR                   | 180 menit |
 |        | Pembuatan report TOR            | Report TOR                    | 20 menit  |
 |        | Asset campaign                  | Flyer                         | 30 menit  |
 |        | Pembuatan report asset campaign | Report asset campaign         | 10 menit  |
 |        | Promosi coming soon             | Bukti penyebaran di sosmed    | 10 menit  |
 |        | Pembuatan report promosi        | Report promosi coming soon    | 10 menit  |
-| Rabu   | Penyebaran pendaftaran          | Google Form                   | 120 menit |
+| Rabu   | Penyebaran pendaftaran          | Google Form                   | 90 menit |
 |        | Pembuatan report pendaftaran    | Report penyebaran pendaftaran | 15 menit  |
-|        | Persiapan narasumber            | Pemateri                      | 120 menit |
+|        | Persiapan narasumber            | Pemateri                      | 30 menit |
 |        | Pembuatan report narasumber     | Report persiapan narasumber   | 15 menit  |
-| Kamis  | Promosi pendaftaran             | Penyebaran flyer di sosmed    | 240 menit |
+| Kamis  | Promosi pendaftaran             | Penyebaran flyer di sosmed    | 90 menit |
 |        | Pembuatan report promosi        | Report promosi pendaftaran    | 15 menit  |
 | Jumat  | Management peserta              | Grup peserta                  | 40 menit  |
 |        | Pembuatan report management     | Report management peserta     | 10 menit  |
