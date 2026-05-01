@@ -1,6 +1,5 @@
-| No | Pertanyaan                    | Hasil |
-| -- | ----------------------------- | ----- |
-| 1  | Tingkat pemahaman peserta     |       |
-| 2  | Materi yang paling dibutuhkan |       |
-| 3  | Kendala peserta               |       |
-| 4  | Harapan peserta               |       |
+| No | Pertanyaan                | Hasil |
+| -- | ------------------------- | ----- |
+| 1  | Materi yang dibutuhkan    |       |
+| 2  | Kendala peserta           |       |
+| 3  | Harapan peserta           |       |
