@@ -3,6 +3,8 @@
 | ------ | -------------------------------------- | ----------------------------- | --------- |
 | Senin  | pembuatab report survey                | report hasil survey           | 20 menit  |
 |        | Pembuatan TOR                          | Dokumen TOR                   | 40 menit  |
+|        | Review TOR                             | revisi                        | 5  menit  |
+|        | Revisi TOR                             | TOR jadi                      | 20 menit  |
 |        | Asset campaign                         | Flyer                         | 15 menit  |
 | Selasa | Promosi coming soon                    | Bukti penyebaran di sosmed    | 10 menit  |
 |        | Pembuatan report promosi               | Report promosi coming soon    | 20 menit  |
