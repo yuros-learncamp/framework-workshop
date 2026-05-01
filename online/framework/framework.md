@@ -13,7 +13,7 @@
 |        | Pembuatan report promosi               | Report promosi coming soon    | 20 menit  |
 |        | Persiapan narasumber                   | Pemateri                      | 120 menit |
 |        | Pembuatan report narasumber            | Report persiapan narasumber   | 20 menit  |
-|        | pembuatan form survey                  | gform survey                  | 10 menit  |
+|        | pembuatan form survey demand           | gform survey                  | 10 menit  |
 | Rabu   | Promosi pendaftaran                    | Penyebaran flyer di sosmed    | 10 menit  |
 |        | Pembuatan repot pendaftaran            | report pendaftaran            | 20 menit  |
 | Kamis  | Remind pendaftaran                     | penyebaran flyer di sosmed    | 10 menit  |
