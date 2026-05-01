@@ -6,18 +6,16 @@
 |        | Review TOR                             | revisi                           | 5  menit  |
 |        | Asset campaign                         | Flyer                            | 15 menit  |
 | Selasa | Promosi coming soon                    | screenshot di sosmed             | 10 menit  |
-|        | Pembuatan report promosi               | Report promosi coming soon       | 20 menit  |
-|        | Persiapan narasumber                   | Pemateri                         | 120 menit |
-|        | Pembuatan report narasumber            | Report persiapan narasumber      | 20 menit  |
+|        | Pembuatan report promosi               | Report view dari sosmed          | 20 menit  |
+|        | Persiapan narasumber                   | Bukti menghubungi narasumber     | 120 menit |
+|        | Pembuatan report narasumber            | Report narasumber bersedia       | 20 menit  |
 |        | pembuatan form survey permintaan       | gform survey                     | 10 menit  |
 | Rabu   | Promosi pendaftaran                    | screenshot di sosmed             | 10 menit  |
 |        | Pembuatan report pendaftaran           | report pendaftaran               | 20 menit  |
 |        | Penyebaran survey permintaan           | screenshot penyebaran            | 10 menit  |
-| Kamis  | Remind pendaftaran                     | penyebaran flyer di sosmed       | 10 menit  |
-|        | Report remind pendaftaran              | report remind pendaftaran        | 20 menit  |
-| Jumat  | Management peserta                     | Grup peserta                     | 7 menit   |
-|        | Gladi                                  | foto gladi                       | 150 menit |
+| Kamis  | Management peserta                     | bukti peserta masuk grup         | 10 menit  |
 | Sabtu  | Persiapan tempat                       | foto tempat                      | 15 menit  |
+|        | Gladi                                  | foto gladi                       | 150 menit |
 |        | Acara (Hari H)                         | Pelaksanaan kegiatan             | 180 menit |
 |        | Pembuatan report pelaksanaan           | Report kegiatan Hari H           | 15 menit  |
 |        | Penyebaran feedback                    | screenshot share feedback        | 5 menit   |
