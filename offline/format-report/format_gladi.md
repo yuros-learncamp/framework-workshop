@@ -1,14 +1,8 @@
-| No | Bagian yang Dicek    | Status | Keterangan |
-| -- | -------------------- | ------ | ---------- |
-| 1  | Ruangan kegiatan     |        |            |
-| 2  | Proyektor            |        |            |
-| 3  | kesiapan narasumber  |        |            |
-| 4  | materi/ppt narsum    |        |            |
-
-# kendala
-- (kendala)
-- (kendala)
-
-# solusi
-- (solusi)
-- (solusi)
+| No | Bagian Gladi                  | Status | Keterangan |
+| -- | ----------------------------- | ------ | ---------- |
+| 1  | Persiapan ruangan             |        |            |
+| 2  | Pengecekan LCD/proyektor      |        |            |
+| 3  | Simulasi penyampaian materi   |        |            |
+| 4  | Simulasi absensi peserta      |        |            |
+| 5  | Simulasi sesi tanya jawab     |        |            |
+| 6  | Koordinasi panitia            |        |            |
