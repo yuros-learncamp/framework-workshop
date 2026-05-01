@@ -1,12 +1,12 @@
-| No | Media     | Bentuk Promosi  | Status |
-| -- | --------- | --------------- | ------ |
-| 1  | Instagram |                 |        |
-| 2  | WhatsApp  |                 |        |
-| 3  | Facebook  |                 |        |
+# REKAP
+| No | Media Promosi   | Bentuk Promosi     | Status | Keterangan |
+| -- | --------------- | ------------------ | ------ | ---------- |
+| 1  | Instagram Story | Poster coming soon |        |            |
+| 2  | WhatsApp Story  | Poster coming soon |        |            |
+| 3  | Grup WhatsApp   | Penyebaran poster  |        |            |
 
-# hasil promosi
-
-| No | Keterangan                  | Jumlah |
-| -- | --------------------------- | ------ |
-| 1  | Jumlah media yang digunakan |        |
-| 2  | Jumlah penyebaran           |        |
+# HASIL PROMOSI 
+| No | Keterangan                     | Jumlah |
+| -- | ------------------------------ | ------ |
+| 1  | Jumlah media promosi digunakan |        |
+| 2  | Jumlah penyebaran poster       |        |
