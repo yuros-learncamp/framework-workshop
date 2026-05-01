@@ -8,3 +8,11 @@
 | 6  | Internet panitia       |        |            |
 | 7  | Internet narasumber    |        |            |
 | 8  | Backup akun/perangkat  |        |            |
+
+# kendala
+- (kendala)
+- (kendala)
+
+# solusi
+- (solusi)
+- (solusi)
