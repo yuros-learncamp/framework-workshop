@@ -23,7 +23,7 @@
 | Jumat  | Management peserta                     | Grup peserta                  | 7 menit   |
 |        | Gladi                                  | Report gladi, teknis persiapa | 150 menit |
 |        | Pembuatan report gladi                 | Dokumentasi & evaluasi gladi  | 10 menit  |
-|        | Penyebaran survey                      | survey                        | 5 menit   |
+|        | Penyebaran survey demand               | survey                        | 5 menit   |
 | Sabtu  | Persiapan tempat                       | bersih dan rapih              | 10 menit  |
 |        | Acara (Hari H)                         | Pelaksanaan kegiatan          | 180 menit |
 |        | Pembuatan report pelaksanaan           | Report kegiatan Hari H        | 15 menit  |
