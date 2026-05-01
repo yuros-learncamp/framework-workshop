@@ -1,12 +1,15 @@
-| No | Kegiatan             | Status | Keterangan |
-| -- | -------------------- | ------ | ---------- |
-| 1  | Persiapan panitia    |        |            |
-| 2  | Kehadiran narasumber |        |            |
-| 3  | Kehadiran peserta    |        |            |
-| 4  | Pembukaan kegiatan   |        |            |
-| 5  | Penyampaian materi   |        |            |
-| 6  | Sesi tanya jawab     |        |            |
-| 7  | Absensi peserta      |        |            |
-| 8  | Dokumentasi kegiatan |        |            |
-| 9  | Penyebaran feedback  |        |            |
-| 10 | Penutupan kegiatan   |        |            |
+# Pelaksanaan kegiatan
+| No | Kegiatan           | Status | Keterangan |
+| -- | ------------------ | ------ | ---------- |
+| 1  | Persiapan panitia  |        |            |
+| 2  | Pembukaan acara    |        |            |
+| 3  | Penyampaian materi |        |            |
+| 4  | Sesi tanya jawab   |        |            |
+| 5  | Penutupan acara    |        |            |
+
+# Data kehadiran
+| No | Keterangan        | Jumlah |
+| -- | ----------------- | ------ |
+| 1  | Peserta terdaftar |        |
+| 2  | Peserta hadir     |        |
+| 3  | Narasumber hadir  |        |
