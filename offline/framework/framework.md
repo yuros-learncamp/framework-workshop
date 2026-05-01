@@ -1,6 +1,8 @@
 | Hari   | Tugas                                  | Output                        | Waktu     |
 | ------ | -------------------------------------- | ----------------------------- | --------- |
 | Senin  | pembuatab report survey                | report hasil survey           | 20 menit  |
+|        | Riset awal                             | riset dari internet           | 60 menit  |
+|        | Report riset awal                      | report hasil riset            | 20 menit  |
 |        | Pembuatan TOR                          | Dokumen TOR                   | 40 menit  |
 |        | Review TOR                             | revisi                        | 5  menit  |
 |        | Revisi TOR                             | TOR jadi                      | 20 menit  |
@@ -9,6 +11,7 @@
 |        | Pembuatan report promosi               | Report promosi coming soon    | 20 menit  |
 |        | Persiapan narasumber                   | Pemateri                      | 120 menit |
 |        | Pembuatan report narasumber            | Report persiapan narasumber   | 20 menit  |
+|        | pembuatan form survey                  | gform survey                  | 10 menit  |
 | Rabu   | Promosi pendaftaran                    | Penyebaran flyer di sosmed    | 10 menit  |
 |        | Pembuatan repot pendaftaran            | report pendaftaran            | 20 menit  |
 | Kamis  | Remind pendaftaran                     | penyebaran flyer di sosmed    | 10 menit  |
