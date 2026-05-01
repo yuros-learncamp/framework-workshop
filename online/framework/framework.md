@@ -1,26 +1,31 @@
-| Hari   | Tugas                                 | Output                           | Waktu     |
-|--------|---------------------------------------|----------------------------------|-----------|
-| Senin  | Pembuatan report hasil survei         | Report hasil survei              | 30 menit  |
-| Selasa | Penyusunan TOR kegiatan online        | Dokumen TOR                      | 40 menit  |
-|        | Pembuatan asset campaign              | Flyer & poster digital           | 15 menit  |
-|        | Promosi coming soon                   | Bukti penyebaran media sosial    | 5 menit   |
-|        | Pembuatan report promosi coming soon  | Report promosi coming soon       | 10 menit  |
-| Rabu   | Setup platform online                 | Link jitsi                       | 5 menit   |
-|        | Koordinasi narasumber                 | Konfirmasi pemateri              | 60 menit  |
-|        | Pembuatan report narasumber           | Report narasumber                | 20 menit  |
-| Kamis  | Promosi pendaftaran                   | Penyebaran flyer di media sosial | 10 menit  |
-| Jumat  | Manajemen peserta                     | Grup WhatsApp/Telegram peserta   | 5 menit   |
-|        | Gladi bersih online                   | Simulasi kegiatan,persiapa teknis | 155 menit |
-|        | Pembuatan report gladi                | Report gladi + evaluasi          | 15 menit  |
-|        | Penyebaran survei                     | survei peserta                   | 5 menit   |
-| Sabtu  | Pelaksanaan acara                     | Kegiatan berjalan                | 180 menit |
-|        | Dokumentasi online                    | Screenshot & rekaman acara       | 5 menit   |
-|        | Penyebaran feedback                   | Google Form feedback             | 5 menit   |
-|        | Pembuatan report feedback             | Report hasil feedback            | 15 menit  |
-|        | Pembuatan sertifikat                  | Sertifikat digital               | 25 menit  |
-|        | Penyebaran sertifikat                 | Sertifikat diterima peserta      | 15 menit  |
-|        | Pembuatan report penyebaran           | Report penyebaran sertif         | 15 menit  |
-|        | Pembuatan report Hari H               | Report pelaksanaan kegiatan      | 15 menit  |
 
-  Dengan framework workshop online ini maka 1 alur persiapan dan pelaksanaan workshop membutuhkan waktu sekitar 902 menit atau ±15 jam kerja. Jika pekerjaan dilakukan selama 3 jam kerja per hari (180 menit), maka 1 orang mampu menyelesaikan sekitar 5–6 tugas operasional workshop per harinya dan keseluruhan workflow workshop dapat diselesaikan dalam ±5 hari kerja. Agar framework ini dapat berjalan sesuai target, diperlukan pembagian jobdesk yang jelas, dokumentasi/report pada setiap proses kerja, koordinasi panitia yang terstruktur, serta monitoring progres kegiatan secara berkala sehingga seluruh proses workshop online dapat berjalan lebih efektif, terorganisir, dan terdokumentasi dengan baik.
+| Hari   | Tugas                                  | Output                        | Waktu     |
+| ------ | -------------------------------------- | ----------------------------- | --------- |
+| Senin  | pembuatab report survey                | report hasil survey           | 20 menit  |
+|        | Pembuatan TOR                          | Dokumen TOR                   | 40 menit  |
+|        | Asset campaign                         | Flyer                         | 15 menit  |
+| Selasa | Promosi coming soon                    | Bukti penyebaran di sosmed    | 10 menit  |
+|        | Pembuatan report promosi               | Report promosi coming soon    | 20 menit  |
+|        | Persiapan narasumber                   | Pemateri                      | 120 menit |
+|        | Pembuatan report narasumber            | Report persiapan narasumber   | 20 menit  |
+| Rabu   | Promosi pendaftaran                    | Penyebaran flyer di sosmed    | 10 menit  |
+|        | Pembuatan repot pendaftaran            | report pendaftaran            | 20 menit  |
+| Kamis  | Remind pendaftaran                     | penyebaran flyer di sosmed    | 10 menit  |
+|        | Report remind pendaftaran              | report remind pendaftaran     | 20 menit  |
+|        | Setup platform online dan peralatan    | Link jitsi dan peralatan      | 20 menit  |
+|        | Report setup platform dan peralatan    | Report                        | 15 menit  |
+| Jumat  | Management peserta                     | Grup peserta                  | 7 menit   |
+|        | Gladi                                  | Report gladi, teknis persiapa | 150 menit |
+|        | Pembuatan report gladi                 | Dokumentasi & evaluasi gladi  | 10 menit  |
+|        | Penyebaran survey                      | survey                        | 5 menit   |
+| Sabtu  | Persiapan tempat                       | bersih dan rapih              | 10 menit  |
+|        | Acara (Hari H)                         | Pelaksanaan kegiatan          | 180 menit |
+|        | Pembuatan report pelaksanaan           | Report kegiatan Hari H        | 15 menit  |
+|        | Penyebaran feedback                    | Feedback peserta              | 5 menit   |
+|        | Penyebaran sertifikat                  | Sertifikat diterima peserta   | 5 menit   |
+|        | Pembuatan report penyebaran sertifikat | Report penyebaran sertifikat  | 15 menit  |
+|        | Pembuatan report penyebaran feedback   | Report penyebaran feedback    | 15 menit  |
+
+
+
 
