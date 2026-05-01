@@ -1,9 +1,31 @@
-| No | Data Survey                      | Hasil                                                              |
-| -- | -------------------------------- | ------------------------------------------------------------------ |
-| 1  | Status responden                 | 88,9% Mahasiswa aktif, 11,1% Pelajar SMA/SMK                       |
-| 2  | Bidang studi/pekerjaan dominan   | 77,8% Ilmu Sosial/Humaniora                                        |
-| 3  | Topik paling dibutuhkan          | Web Development dan Linux menjadi topik dominan                    |
-| 4  | Tingkat kebutuhan terhadap topik | 44,4% memilih tingkat kebutuhan 5                                  |
-| 5  | Faktor mengikuti workshop        | Pengembangan skill dan kebutuhan tugas/proyek menjadi alasan utama |
-| 6  | Format kegiatan favorit          | 66,7% memilih online (via meeting)                                 |
-| 7  | Kesediaan hadir workshop         | 55,6% kemungkinan besar hadir                                      |
+# metodologi survey
+| Aspek             | Keterangan                      |
+| ----------------- | ------------------------------- |
+| Media Survey      | Google Form                     |
+| Metode Survey     | Penyebaran link survey          |
+| Bentuk Pertanyaan | Pilihan ganda & skala penilaian |
+| Responden         | Peserta workshop                |
+
+# hasil analis data
+## 1. profil responde
+| Data Responden         | Hasil                                           |
+| ---------------------- | ----------------------------------------------- |
+| Status peserta         | 88,9% Mahasiswa aktif, 11,1% Pelajar SMA/SMK    |
+| Bidang studi/pekerjaan | 77,8% berasal dari bidang Ilmu Sosial/Humaniora |
+| Jumlah responden       | 9 Orang                                         |
+
+## 2. minat dan kebutuhan peserta
+| Data Survey                | Hasil                                                      |
+| -------------------------- | ---------------------------------------------------------- |
+| Topik yang diminati        | wordpress dan microsoft excel                              |
+| Tingkat kebutuhan workshop | 44,4% peserta memilih tingkat kebutuhan tertinggi          |
+| Alasan mengikuti workshop  | Menambah skill, kebutuhan tugas, dan persiapan dunia kerja |
+
+## 3. referensi pelaksanaan workshop
+| Data Survey              | Hasil                                    |
+| ------------------------ | ---------------------------------------- |
+| Format workshop favorit  | 66,7% memilih workshop online            |
+| Kesediaan hadir workshop | 55,6% menyatakan kemungkinan besar hadir |
+
+
+
