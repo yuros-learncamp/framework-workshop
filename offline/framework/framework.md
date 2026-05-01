@@ -1,7 +1,8 @@
 | Hari   | Tugas                                  | Output                        | Waktu     |
 | ------ | -------------------------------------- | ----------------------------- | --------- |
-| Senin  | pembuatab report survey                | report hasil survey           | 20 menit  |
-|        | Riset awal                             | riset dari internet           | 60 menit  |
+| Senin  | Monitoring dan evaluasi                | report monitoring dan evaluasi | 20 menit |
+|        | pembuatab report survey                | report hasil survey           | 20 menit  |
+|        | Riset awal                             | riset dari internet           | 40 menit  |
 |        | Report riset awal                      | report hasil riset            | 20 menit  |
 |        | Pembuatan TOR                          | Dokumen TOR                   | 40 menit  |
 |        | Review TOR                             | revisi                        | 5  menit  |
