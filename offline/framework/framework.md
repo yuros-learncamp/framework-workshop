@@ -4,7 +4,7 @@
 |        | Pembuatan report penyebaran feedback   | Report penyebaran feedback       | 15 menit  |
 |        | Monitoring dan evaluasi                | report hasil feedback dan internal | 20 menit |
 |        | pembuatan report permintaan            | report hasil feedback dan survey | 20 menit  |
-|        | Pembuatan TOR                          | Dokumen TOR                      | 40 menit  |
+|        | Pembuatan TOR                          | Dokumen TOR                      | 25 menit  |
 |        | Review TOR                             | revisi                           | 5  menit  |
 |        | Asset campaign                         | Flyer                            | 15 menit  |
 | Selasa | Promosi coming soon                    | screenshot di sosmed             | 10 menit  |
