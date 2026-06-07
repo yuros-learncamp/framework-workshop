@@ -2,7 +2,6 @@
 | ------ | -------------------------------------- | -------------------------------- | --------- |
 | Senin  | Pembuatan report penyebaran sertifikat | Report penyebaran sertifikat     | 15 menit  |
 |        | Pembuatan report penyebaran feedback   | Report penyebaran feedback       | 15 menit  |
-|        | Monitoring dan evaluasi                | report hasil feedback dan internal | 20 menit |
 |        | pembuatan report permintaan            | report hasil feedback dan survey | 20 menit  |
 |        | Pembuatan TOR                          | Dokumen TOR                      | 25 menit  |
 |        | Review TOR                             | revisi                           | 5  menit  |
@@ -16,6 +15,7 @@
 |        | Pembuatan report pendaftaran           | report pendaftaran               | 20 menit  |
 |        | Penyebaran survey permintaan           | screenshot penyebaran survey     | 10 menit  |
 | Jumat  | Management peserta                     | bukti peserta masuk grup         | 10 menit  |
+|        | Monitoring dan evaluasi                | report hasil feedback dan internal | 20 menit |
 | Sabtu  | Persiapan tempat                       | foto tempat                      | 15 menit  |
 |        | Gladi                                  | foto gladi                       | 150 menit |
 |        | Acara (Hari H)                         | Pelaksanaan kegiatan             | 180 menit |
