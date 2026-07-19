@@ -63,6 +63,5 @@ Beberapa poin evaluasi utama:
 | 2 | Redundansi Platform | Sediakan platform virtual cadangan (misalnya Zoom/Google Meet) yang sudah di-setup sebelumnya, sehingga jika Jitsi bermasalah, sesi dapat langsung dipindahkan tanpa banyak jeda. |
 | 3 | Perangkat Operator | Gunakan minimal 2 perangkat broadcast (primary & backup) yang sudah login dan siap pakai, agar proses re-connect tidak memakan waktu lama. |
 | 4 | Dokumentasi Materi Real-Time | Gunakan file materi (skrip/Obsidian) yang tersimpan di cloud (Google Docs/Notion) dan dapat diakses bersama, bukan hanya di satu laptop, agar proses take-over lebih cepat dan tidak tertinggal. |
-| 5 | Tim Teknis Khusus Daring | Alokasikan minimal 1 orang panitia yang fokus penuh memantau chat dan kestabilan platform daring selama sesi berlangsung, terpisah dari tim yang menangani peserta luring. |
-| 6 | SOP Tertulis | Susun SOP tertulis untuk penanganan gangguan teknis (disconnect, audio putus, dsb.) agar respons panitia lebih cepat dan terstandar, tidak lagi bersifat reaktif. |
-| 7 | Uji Coba Sebelum Acara (Technical Rehearsal) | Lakukan simulasi/gladi bersih koneksi dan perangkat broadcast H-1 sebelum acara untuk mendeteksi potensi masalah jaringan lebih awal. |
+| 5 | SOP Tertulis | Susun SOP tertulis untuk penanganan gangguan teknis (disconnect, audio putus, dsb.) agar respons panitia lebih cepat dan terstandar, tidak lagi bersifat reaktif. |
+| 6 | Uji Coba Sebelum Acara (Technical Rehearsal) | Lakukan simulasi/gladi bersih koneksi dan perangkat broadcast H-1 sebelum acara untuk mendeteksi potensi masalah jaringan lebih awal. |
