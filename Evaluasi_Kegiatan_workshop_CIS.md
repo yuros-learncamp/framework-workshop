@@ -44,18 +44,7 @@ Gangguan tersebut sempat memotong alur presentasi di layar penonton daring dan m
 
 ---
 
-## 3.1 Evaluasi Umum Pelaksanaan Hybrid
-
-Secara keseluruhan, pelaksanaan workshop CIS Benchmarks berjalan cukup baik dari sisi penyampaian materi dan antusiasme peserta luring. Namun, sektor daring menjadi titik lemah utama akibat ketergantungan pada satu platform (Jitsi Meet) tanpa jalur cadangan (backup), sehingga saat terjadi gangguan koneksi, dampaknya langsung terasa oleh seluruh peserta online tanpa ada solusi mitigasi cepat selain re-connect manual.
-
-Beberapa poin evaluasi utama:
-
-1. **Ketergantungan Infrastruktur Tunggal:** Tidak ada platform cadangan (misalnya Zoom, Google Meet, atau Google Meet, atau line RTMP kedua) saat Jitsi mengalami disconnect.
-2. **Perangkat Broadcast Tunggal:** Proses re-connect bergantung pada satu perangkat operator, sehingga saat perangkat tersebut bermasalah, seluruh siaran ikut terhenti.
-3. **Sinkronisasi Materi Real-Time:** Peserta daring sempat tertinggal progres catatan/skrip karena proses take-over file hanya dilakukan secara manual saat insiden terjadi.
-4. **Belum Ada SOP Tertulis:** Penanganan kendala teknis masih bersifat reaktif dan mengandalkan inisiatif panitia di lapangan, bukan mengikuti prosedur baku yang telah disiapkan sebelumnya.
-
-## 3.2 Saran untuk Workshop Hybrid Selanjutnya
+## 3.1 Saran untuk Workshop Hybrid Selanjutnya
 
 | No | Aspek | Saran Perbaikan |
 |----|-------|------------------|
